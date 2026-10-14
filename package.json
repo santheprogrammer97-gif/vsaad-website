@@ -6,7 +6,7 @@
   "description": "VSAAD Granite & Tiles — Luxury Architectural Stone & Surface Platform",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build"
+    "build": "tsc -b && vite build",
     "start": "node server/index.js",
     "preview": "vite preview"
   },
